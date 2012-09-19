@@ -27,6 +27,7 @@ To install:
         guard
 
 Then:
+
         Open folder in localhost, enable LiveReload browser plugin
         Edit html or scss files to see live reload
         Experiment with jmpress
