@@ -2,10 +2,11 @@
 @import "compass/reset";
 @import "compass/css3";
 @import "compass/layout/sticky-footer";
+@import "compass";
+@import "susy";
 
 // Custom
 @import "variables";
 @import "fonts";
 @import "step";
 @import "page";
-
