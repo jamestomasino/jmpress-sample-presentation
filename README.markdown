@@ -14,7 +14,7 @@ This labs project is designed to test the implementation of several technologies
 Prerequisites
 =============
 
-This project requires Ruby and RubyGems and the [LiveReload browser plugin](https://chrome.google.com/webstore/detail/jnihajbhpnppcggbcgedagnkighmdlei).
+This project requires Ruby and RubyGems and the LiveReload browser plugin: [Chrome](https://chrome.google.com/webstore/detail/jnihajbhpnppcggbcgedagnkighmdlei), [Safari](https://github.com/downloads/mockko/livereload/LiveReload-1.6.2.safariextz), [Firefox](https://addons.mozilla.org/firefox/addon/livereload/), IE... Seriously?
 
 Installation
 ============
