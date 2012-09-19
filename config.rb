@@ -1,0 +1,13 @@
+http_path        = "/"
+css_dir          = "css"
+sass_dir         = "scss"
+javascripts_dir  = "js"
+images_dir       = "images"
+fonts_dir        = "fonts"
+project_type     = :stand_alone
+environment      = :development
+output_style     = :compressed
+relative_assets  = true
+line_comments    = false
+disable_warnings = false
+preferred_syntax = :scss

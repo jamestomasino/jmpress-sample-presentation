@@ -1,0 +1,38 @@
+.step {
+	width: 900px;
+    height: 400px;
+	font-size: 1em;
+	min-height: 500px;
+	background-color: white;
+
+	display: block;
+    padding: 40px 60px;
+	border: 1px solid $borderDark;
+    color: $textDark;
+    letter-spacing: -1px;
+    
+	@include border-radius ( 10px );
+    @include single-box-shadow ( $shadowDark, 0, 2px, 6px );
+    @include single-text-shadow ( 2, 2, 2, 0, $shadowDark );
+	@include box-sizing ( border-box );
+	@include transition ( opacity 1s );
+
+	&:not(.active) {
+		@include opacity ( 0.3 );
+	}
+
+	header {
+		@include lobsterTwoBold;
+		font-size: 60px;
+		line-height: 68px;
+	}
+
+	p {
+		@include cantarellRegular;
+		font-size: 18px;
+		line-height: 24px;
+		margin: 10px 0;
+		text-align: justify;
+	}
+}
+
