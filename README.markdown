@@ -14,7 +14,7 @@ This labs project is designed to test the implementation of several technologies
 Prerequisites
 =============
 
-This project requires Ruby and RubyGems.
+This project requires Ruby and RubyGems and the LiveReload browser plugin.
 
 Installation
 ============
@@ -24,7 +24,6 @@ To install:
 		git clone https://github.com/notmedia/jmpress-sample-presentation.git
 		cd jmpress-sample-presentation
         bundle
-        Install LiveReload browser plugin
         guard
         Open folder in localhost, enable LiveReload browser plugin
         Edit files to see live reload
