@@ -14,7 +14,7 @@ This labs project is designed to test the implementation of several technologies
 Prerequisites
 =============
 
-This project requires Ruby and RubyGems, and the 
+This project requires Ruby and RubyGems.
 
 Installation
 ============
