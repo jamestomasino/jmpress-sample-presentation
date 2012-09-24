@@ -26,14 +26,14 @@ To install:
 	git clone https://github.com/notmedia/jmpress-sample-presentation.git
 	cd jmpress-sample-presentation
 	gem install bundle (may require sudo)
-        bundle
-        guard
+	bundle
+	guard
 
 Then:
 
-        Open folder in localhost, enable LiveReload browser plugin
-        Edit html or scss files to see live reload
-        Experiment with jmpress
+	Open folder in localhost, enable LiveReload browser plugin
+	Edit html or scss files to see live reload
+	Experiment with jmpress
 
 Author
 ======
